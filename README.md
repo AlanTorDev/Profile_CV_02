@@ -1,4 +1,4 @@
-# Tam Minh Hoang CV — Theme Switch
+# Tam Minh Hoang CV — Theme Switchs
 
 Open `index.html` directly in a browser.
 
